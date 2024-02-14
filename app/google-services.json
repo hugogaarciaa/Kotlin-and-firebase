@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275458195879",
+    "project_id": "fir-taller-f00bf",
+    "storage_bucket": "fir-taller-f00bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275458195879:android:d50e49e014d693829af682",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7PQP1Sw70mz6CUKFop1-JFKuAsubvGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
